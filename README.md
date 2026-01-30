@@ -1,4 +1,10 @@
-## Hi there 👋
+## Whoami
+Junior Security Researcher (Maritime, IoT, AI, SBOM)
+
+- Best of the Best 12th
+- Stealien Security Leader 5th
+- LG Aimers 8th
+- Defcon33 MHV co-presenter
 
 <!--
 **se0n9/Se0n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
