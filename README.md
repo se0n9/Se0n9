@@ -1,6 +1,10 @@
 ## Whoami
-Junior Security Researcher (Maritime, IoT, AI, SBOM)
+Junior Security Researcher 
 
+### Research Interests:
+System Security, Embedded/Hardware, Maritime, and Homomorphic encryption (HE).
+
+### Key Activities:
 - Best of the Best 12th (KISA)
 - Stealien Security Leader 5th
-- Defcon33 MHV Co-presenter
+- DEFCON 33 MHV Co-presenter
