@@ -1,5 +1,5 @@
 ## Whoami
-Junior Security Researcher 
+Student
 
 ### Research Interests:
 System Security, Embedded/Hardware, Maritime, and Homomorphic encryption (HE).
